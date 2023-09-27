@@ -1,0 +1,2 @@
+C:\Users\lukee\Desktop\CSharp Projects\LINQ\EventRegistration\EventRegistration\EventRegistration\obj\Debug\EventRegistration.csproj.AssemblyReference.cache
+C:\Users\lukee\Desktop\CSharp Projects\LINQ\EventRegistration\EventRegistration\EventRegistration\obj\Debug\EventRegistration.csproj.CoreCompileInputs.cache
